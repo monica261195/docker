@@ -1,6 +1,6 @@
 pipeline {
     agent any
-    /** here tools are not mandatory it works without tools also
+    //here tools are not mandatory it works without tools also
     tools {
   dockerTool 'docker'
 }
